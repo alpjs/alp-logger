@@ -1,5 +1,7 @@
 # alp-logger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-logger.svg)](https://greenkeeper.io/)
+
 ## With Koa (Node)
 
 ```js
